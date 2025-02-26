@@ -1,11 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using Day3Part1;
 using FluentAssertions;
 using JetBrains.Annotations;
 using Xunit;
 
-namespace Day3Part1.Tests;
+namespace Day3.Tests;
 
 [TestSubject(typeof(Solution))]
 public class Day3Part1Tests

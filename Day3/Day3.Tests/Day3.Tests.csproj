@@ -5,7 +5,7 @@
     
     <IsPackable>false</IsPackable>
     
-    <RootNamespace>Day3Part1.Tests</RootNamespace>
+    <RootNamespace>Day3.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Day3Part1\Day3Part1.csproj" />
+    <ProjectReference Include="..\Day3Part2\Day3Part2.csproj" />
   </ItemGroup>
   
 </Project>
